@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "m3u8-extractor-api",
+  "name": "foxtract",
   "main": "src/index.js",
   "compatibility_date": "2026-10-13",
   "compatibility_flags": [
